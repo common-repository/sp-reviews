@@ -1,0 +1,516 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SP Reviews\n"
+"POT-Creation-Date: 2013-08-12 10:57-0600\n"
+"PO-Revision-Date: 2013-08-12 10:57-0600\n"
+"Last-Translator: \n"
+"Language-Team: SuperMedia <wp@superpages.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_x;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: spr-shortcode.php:87
+msgid "Customer Reviews"
+msgstr ""
+
+#: spr-shortcode.php:87
+msgid "from Superpages.com"
+msgstr ""
+
+#: spr-shortcode.php:90
+msgid "No reviews for "
+msgstr ""
+
+#: spr-shortcode.php:101 spr-widget.php:92 superpages-reviews.php:337
+msgid "Not Yet Rated"
+msgstr ""
+
+#: spr-shortcode.php:123 superpages-reviews.php:335
+msgid " Reviews"
+msgstr ""
+
+#: spr-shortcode.php:139 spr-shortcode.php:143 spr-shortcode.php:153
+#: spr-shortcode.php:157 spr-shortcode.php:167 spr-shortcode.php:171
+#: spr-widget.php:100 spr-widget.php:104 spr-widget.php:108 spr-widget.php:115
+#: spr-widget.php:118 spr-widget.php:121
+msgid "Recommend Us"
+msgstr ""
+
+#: spr-shortcode.php:140 spr-shortcode.php:154 spr-shortcode.php:168
+#: spr-widget.php:101 spr-widget.php:105 spr-widget.php:109
+msgid "Reviews"
+msgstr ""
+
+#: spr-shortcode.php:180 spr-widget.php:148
+msgid ""
+"Oh no! There was a problem. The feed might be unavailable at this time, or "
+"the hosting provider may not have allow_url_fopen enabled. If problem "
+"persists contact"
+msgstr ""
+
+#: spr-shortcode.php:184 spr-widget.php:152
+msgid ""
+"No content available. Please check plugin options and save business name, "
+"city, and state."
+msgstr ""
+
+#: spr-widget.php:10
+msgid "Show your average rating from Superpages.com."
+msgstr ""
+
+#: spr-widget.php:13 superpages-reviews.php:169
+msgid "SP Reviews"
+msgstr ""
+
+#: spr-widget.php:84
+msgid "OUR OVERALL RATING IS:"
+msgstr ""
+
+#: spr-widget.php:181
+msgid "Title:"
+msgstr ""
+
+#: spr-widget.php:187
+msgid "Choose color of widget?"
+msgstr ""
+
+#: spr-widget.php:189
+msgid "Dark Blue"
+msgstr ""
+
+#: spr-widget.php:190
+msgid "Light Blue"
+msgstr ""
+
+#: spr-widget.php:191
+msgid "Light Gray"
+msgstr ""
+
+#: superpages-reviews.php:67 superpages-reviews.php:218
+msgid "1) Locate Listing"
+msgstr ""
+
+#: superpages-reviews.php:69
+msgid "Step 1: Locate Your Business Listing"
+msgstr ""
+
+#: superpages-reviews.php:70
+msgid "Business Name"
+msgstr ""
+
+#: superpages-reviews.php:71
+msgid "City"
+msgstr ""
+
+#: superpages-reviews.php:72
+msgid "State"
+msgstr ""
+
+#: superpages-reviews.php:77
+msgid "2) Select Listing"
+msgstr ""
+
+#: superpages-reviews.php:79
+msgid "Step 2: Select Your Business Listing"
+msgstr ""
+
+#: superpages-reviews.php:88
+msgid ""
+"First thing we need to do is see if you already have a business listing on "
+"Superpages.com.  Enter your business name, city, and state in the boxes "
+"below and then click <strong>Find It.</strong>"
+msgstr ""
+
+#: superpages-reviews.php:89
+msgid ""
+"Look for your business in the list below and click <strong>Select This "
+"Listing</strong> to select it. Then select <strong>Appearance</strong> -> "
+"<strong>Widgets</strong> in the side panel to the left to place the SP "
+"Reviews widget on your website.<br /><br /> If you can't find your business "
+"in the list, check out the <strong>Troubleshooting Tips</strong> to the "
+"right."
+msgstr ""
+
+#: superpages-reviews.php:110
+msgid "(Choose)"
+msgstr ""
+
+#: superpages-reviews.php:111
+msgid "Alabama"
+msgstr ""
+
+#: superpages-reviews.php:112
+msgid "Alaska"
+msgstr ""
+
+#: superpages-reviews.php:113
+msgid "Arizona"
+msgstr ""
+
+#: superpages-reviews.php:114
+msgid "Arkansas"
+msgstr ""
+
+#: superpages-reviews.php:115
+msgid "California"
+msgstr ""
+
+#: superpages-reviews.php:116
+msgid "Colorado"
+msgstr ""
+
+#: superpages-reviews.php:117
+msgid "Connecticut"
+msgstr ""
+
+#: superpages-reviews.php:118
+msgid "Delaware"
+msgstr ""
+
+#: superpages-reviews.php:119
+msgid "D.C."
+msgstr ""
+
+#: superpages-reviews.php:120
+msgid "Florida"
+msgstr ""
+
+#: superpages-reviews.php:121
+msgid "Georgia"
+msgstr ""
+
+#: superpages-reviews.php:122
+msgid "Hawaii"
+msgstr ""
+
+#: superpages-reviews.php:123
+msgid "Idaho"
+msgstr ""
+
+#: superpages-reviews.php:124
+msgid "Illinois"
+msgstr ""
+
+#: superpages-reviews.php:125
+msgid "Indiana"
+msgstr ""
+
+#: superpages-reviews.php:126
+msgid "Iowa"
+msgstr ""
+
+#: superpages-reviews.php:127
+msgid "Kansas"
+msgstr ""
+
+#: superpages-reviews.php:128
+msgid "Kentucky"
+msgstr ""
+
+#: superpages-reviews.php:129
+msgid "Louisiana"
+msgstr ""
+
+#: superpages-reviews.php:130
+msgid "Maine"
+msgstr ""
+
+#: superpages-reviews.php:131
+msgid "Maryland"
+msgstr ""
+
+#: superpages-reviews.php:132
+msgid "Massachusetts"
+msgstr ""
+
+#: superpages-reviews.php:133
+msgid "Michigan"
+msgstr ""
+
+#: superpages-reviews.php:134
+msgid "Minnesota"
+msgstr ""
+
+#: superpages-reviews.php:135
+msgid "Mississippi"
+msgstr ""
+
+#: superpages-reviews.php:136
+msgid "Missouri"
+msgstr ""
+
+#: superpages-reviews.php:137
+msgid "Montana"
+msgstr ""
+
+#: superpages-reviews.php:138
+msgid "Nebraska"
+msgstr ""
+
+#: superpages-reviews.php:139
+msgid "Nevada"
+msgstr ""
+
+#: superpages-reviews.php:140
+msgid "New Hampshire"
+msgstr ""
+
+#: superpages-reviews.php:141
+msgid "New Jersey"
+msgstr ""
+
+#: superpages-reviews.php:142
+msgid "New Mexico"
+msgstr ""
+
+#: superpages-reviews.php:143
+msgid "New York"
+msgstr ""
+
+#: superpages-reviews.php:144
+msgid "North Carolina"
+msgstr ""
+
+#: superpages-reviews.php:145
+msgid "North Dakota"
+msgstr ""
+
+#: superpages-reviews.php:146
+msgid "Ohio"
+msgstr ""
+
+#: superpages-reviews.php:147
+msgid "Oklahoma"
+msgstr ""
+
+#: superpages-reviews.php:148
+msgid "Oregon"
+msgstr ""
+
+#: superpages-reviews.php:149
+msgid "Pennsylvania"
+msgstr ""
+
+#: superpages-reviews.php:150
+msgid "Rhode Island"
+msgstr ""
+
+#: superpages-reviews.php:151
+msgid "South Carolina"
+msgstr ""
+
+#: superpages-reviews.php:152
+msgid "South Dakota"
+msgstr ""
+
+#: superpages-reviews.php:153
+msgid "Tennessee"
+msgstr ""
+
+#: superpages-reviews.php:154
+msgid "Texas"
+msgstr ""
+
+#: superpages-reviews.php:155
+msgid "Utah"
+msgstr ""
+
+#: superpages-reviews.php:156
+msgid "Vermont"
+msgstr ""
+
+#: superpages-reviews.php:157
+msgid "Virginia"
+msgstr ""
+
+#: superpages-reviews.php:158
+msgid "Washington"
+msgstr ""
+
+#: superpages-reviews.php:159
+msgid "Washington D.C."
+msgstr ""
+
+#: superpages-reviews.php:160
+msgid "West Virginia"
+msgstr ""
+
+#: superpages-reviews.php:161
+msgid "Wisconsin"
+msgstr ""
+
+#: superpages-reviews.php:162
+msgid "Wyoming"
+msgstr ""
+
+#: superpages-reviews.php:169
+msgid "Superpages.com Business Listing Reviews"
+msgstr ""
+
+#: superpages-reviews.php:281
+msgid "No results found for"
+msgstr ""
+
+#: superpages-reviews.php:281
+msgid "in"
+msgstr ""
+
+#: superpages-reviews.php:283
+msgid ""
+"To try your search again, click the Locate Listing tab at the top of the "
+"page."
+msgstr ""
+
+#: superpages-reviews.php:287
+msgid "Found"
+msgstr ""
+
+#: superpages-reviews.php:287
+msgid "results for"
+msgstr ""
+
+#: superpages-reviews.php:345
+msgid "Selected"
+msgstr ""
+
+#: superpages-reviews.php:383
+msgid ""
+"Oh no! There was a problem. The feed might be unavailable at this time, or "
+"the hosting provider may \n"
+"    not have allow_url_fopen enabled."
+msgstr ""
+
+#: superpages-reviews.php:384
+msgid "If problem persists contact"
+msgstr ""
+
+#: superpages-reviews.php:390
+msgid "Thank You!"
+msgstr ""
+
+#: superpages-reviews.php:391
+msgid "Free Consultation"
+msgstr ""
+
+#: superpages-reviews.php:392
+msgid ""
+"At SuperMedia, we're focused on partnering with local businesses like yours "
+"to help them connect with customers and build the right presence."
+msgstr ""
+
+#: superpages-reviews.php:393
+msgid ""
+"Contact us for a free consultation and find out what SuperMedia can do for "
+"you!"
+msgstr ""
+
+#: superpages-reviews.php:394
+msgid "Call Us <strong>855-234-2997</strong>"
+msgstr ""
+
+#: superpages-reviews.php:395
+msgid "M - F, 7am - 6pm CST"
+msgstr ""
+
+#: superpages-reviews.php:396
+msgid "Or visit our website!"
+msgstr ""
+
+#: superpages-reviews.php:397
+msgid "Thanks for downloading the SP Reviews plugin from Superpages.com!"
+msgstr ""
+
+#: superpages-reviews.php:398
+msgid ""
+"If you have any questions or comments about this plugin, please drop us a "
+"line at"
+msgstr ""
+
+#: superpages-reviews.php:399
+msgid "wp@superpages.com"
+msgstr ""
+
+#: superpages-reviews.php:401
+msgid "Superpages.com Facebook"
+msgstr ""
+
+#: superpages-reviews.php:402
+msgid "Superpages.com Twitter"
+msgstr ""
+
+#: superpages-reviews.php:403
+msgid "Superpages.com Google+"
+msgstr ""
+
+#: superpages-reviews.php:404
+msgid "Superpages.com Pinterest"
+msgstr ""
+
+#: superpages-reviews.php:406
+msgid "About Superpages.com"
+msgstr ""
+
+#: superpages-reviews.php:407
+msgid ""
+"Superpages.com is the local business listing expert. Each month, we help "
+"millions of consumers find the local business information they're looking for"
+"—from driving directions and hours of operation to web links and customer "
+"reviews."
+msgstr ""
+
+#: superpages-reviews.php:458
+msgid "Did You Know?"
+msgstr ""
+
+#: superpages-reviews.php:459
+msgid "1) Display Full Reviews"
+msgstr ""
+
+#: superpages-reviews.php:460
+msgid ""
+"You can show all of your customer reviews on a webpage or in a blog post by "
+"using the <strong>[showspreviews]</strong> shortcode."
+msgstr ""
+
+#: superpages-reviews.php:461
+msgid ""
+"To change the color, simply add a color attribute of <strong>dark-blue</"
+"strong>, <strong>light-blue,</strong> or <strong>light-gray</strong>."
+msgstr ""
+
+#: superpages-reviews.php:462
+msgid "Example:<br /> <strong>[showspreviews color=\"light-gray\"]</strong>"
+msgstr ""
+
+#: superpages-reviews.php:463
+msgid "2) Show Average Rating"
+msgstr ""
+
+#: superpages-reviews.php:464
+msgid ""
+"You can show your average rating with the SP Reviews widget by adding it to "
+"the sidebar of your website. Just select <strong>Appearance</strong> -> "
+"<strong>Widgets</strong>, and then follow the onscreen instructions."
+msgstr ""
+
+#: superpages-reviews.php:465
+msgid "Troubleshooting Tips"
+msgstr ""
+
+#: superpages-reviews.php:466
+msgid ""
+"If your business isn't showing up in the list, then that means you're not "
+"currently listed on Superpages.com. <a href=\""
+msgstr ""
+
+#: superpages-reviews.php:467
+msgid ""
+"If you have any questions about adding your business or claiming your "
+"listing, <a href=\""
+msgstr ""
